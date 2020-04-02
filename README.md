@@ -20,10 +20,7 @@ We learned how to use Mongoose to create Schemas and then interact with our Mong
 
   ```
   git add .
-<<<<<<< HEAD
   git commit -m "done"
-=======
-
   git push origin master
   ```
 
