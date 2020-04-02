@@ -2,7 +2,7 @@ const mongoose = require('mongoose'); //para conectarse con Mongoose
 const Schema = mongoose.Schema;
 
 /*With mongoose everything is derived from a Schema*/
-//creo el Schema:
+
 const recipeSchema = new Schema({
   title: {type: String, required: true,unique: true},
   level: {type: String, enum: ['Easy Peasy', 'Amateur Chef', 'UltraPro Chef']},

@@ -1,7 +1,6 @@
 {
   "name": "lab-mongoose-recipes",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)",
   "main": "index.js",
   "scripts": {
@@ -20,19 +19,4 @@
     "url": "https://github.com/Alex-Manye/lab-mongoose-recipes/issues"
   },
   "homepage": "https://github.com/Alex-Manye/lab-mongoose-recipes#readme"
-=======
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node ./index.js",
-    "dev": "node ./index.js"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "mongoose": "^5.8.9"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
->>>>>>> 37c210df82e4a56b00727af668b29f623f5e1055
 }

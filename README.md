@@ -6,11 +6,8 @@
 
 ![thai_style_chicken_noodle_soup_pieces_recipe_web](https://user-images.githubusercontent.com/23629340/38369283-ac1bda62-38e7-11e8-9c9b-d9df623f1bc3.jpg)
 
-<<<<<<< HEAD
+
 We learned how to use Mongoose to create Schemas and then interact with our MongoDB database. In the following exercise, we will practice how to implement this by creating awesome recipes.
-=======
-We've learned how to use Mongoose to create Schemas and then interact with our MongoDB database. In the following exercise, we will practice how to implement this by creating awesome recipes.
->>>>>>> 37c210df82e4a56b00727af668b29f623f5e1055
 
 ## Requirements
 
@@ -26,17 +23,13 @@ We've learned how to use Mongoose to create Schemas and then interact with our M
 <<<<<<< HEAD
   git commit -m "done"
 =======
-  git commit -m "Completed lab"
->>>>>>> 37c210df82e4a56b00727af668b29f623f5e1055
+
   git push origin master
   ```
 
 - Create Pull Request so your TAs can check up your work.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 37c210df82e4a56b00727af668b29f623f5e1055
 ## Instructions
 
 ### Iteration 1 - Recipe Schema
@@ -122,4 +115,4 @@ Oh oh! The `Carrot Cake` is no longer available, so we need to remove it from th
 After completing every task, you need to close the database. Otherwise, the connection will stay open until the node.js process dies. Pay attention to the asynchronicity of the operation. You should only close the connection after everything is done! :wink:
 
 Happy coding! 💙
->>>>>>> 37c210df82e4a56b00727af668b29f623f5e1055
+
